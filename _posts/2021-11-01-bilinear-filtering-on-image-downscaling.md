@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bilinear filtering on downscaling case"
+title:  "Bilinear filtering on image downscaling?"
 date:   2021-11-01 17:16:26 +0800
 categories: TIL, Android
 ---

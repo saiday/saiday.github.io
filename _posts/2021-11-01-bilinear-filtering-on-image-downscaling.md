@@ -21,7 +21,10 @@ public static Bitmap createScaledBitmap(@NonNull Bitmap src, int dstWidth, int d
 #### Billinear 不適合做 downscaling
 
 > Bilinear is a poor choice for downscaling because it leads to aliasing artifacts. This is when you attempt to create spatial frequencies that are beyond the Nyquist sampling limit, and high frequency detail turns into low frequency artifacts. 
-> You can minimize this by blurring the image before you downscale it. Or you can choose an interpolation algorithm that incorporates some low pass filtering.
+> You can minimize this by blurring the image before you downscale it.
+> Or you can choose an interpolation algorithm that incorporates some low pass filtering.
+
+如果需要低通濾波器的話，[Lanczos resampling](https://en.wikipedia.org/wiki/Lanczos_resampling) 似乎是合理的選項？
 
 ref:  
 [How bilinear interpolation works when down scaling?](https://stackoverflow.com/a/64841829/1554531)

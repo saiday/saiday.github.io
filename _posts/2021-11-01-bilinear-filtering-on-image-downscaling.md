@@ -2,7 +2,7 @@
 layout: post
 title:  "Bilinear filtering on image downscaling?"
 date:   2021-11-01 17:16:26 +0800
-categories: TIL, Android
+categories: ""
 ---
 
 Android 的 Bitmap 有個 helper method 專門產生 scaled bitmap

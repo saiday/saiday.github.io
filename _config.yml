@@ -23,7 +23,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   想要與眾不同，打曲棍球摔斷那根從來沒有人聽過的骨頭
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://saiday.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: saiiday
 favicon: "./favicon.ico" # set the favicon of the site
 

@@ -24,7 +24,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   想要與眾不同，打曲棍球摔斷那根從來沒有人聽過的骨頭
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: saiday
+twitter_username: saiiday
+favicon: "./favicon.ico" # set the favicon of the site
+
+# moving theme fileds
+show_excerpts: true # set to true to show excerpts on the homepage
+# Moving date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+moving:
+  avatar_url: "https://pbs.twimg.com/profile_images/1298200128071720961/ISwOJHoU_400x400.jpg" # avatar in about page
+  about_you: It was me, I let the dogs out. # short description about you in about page
+  date_format: "%b %d" # date format of posts in home page
+  back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
+
 
 # Fields minima uses, but are not defaulted with the jekyll new command.
 # Author is the default for posts, the Atom feed, and is used in the footer.
@@ -39,6 +51,7 @@ author: saiday
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

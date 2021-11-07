@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bilinear filtering on image downscaling?"
+title:  "縮小圖片時避免使用 Bilinear filtering"
 date:   2021-11-01 17:16:26 +0800
 categories: ""
 ---

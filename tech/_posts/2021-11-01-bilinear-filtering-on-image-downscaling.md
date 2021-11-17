@@ -2,7 +2,7 @@
 layout: post
 title:  "縮小圖片時避免使用 Bilinear filtering"
 date:   2021-11-01 17:16:26 +0800
-categories: ""
+category: tech
 ---
 
 Android 的 Bitmap 有個 helper method 專門產生 scaled bitmap

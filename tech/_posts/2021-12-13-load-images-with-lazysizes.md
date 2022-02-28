@@ -11,7 +11,7 @@ TL;DR
 
 ### 為什麼需要 lazysizes
 
-弄了這個 site 最主要的目的是想要分享一些[自己拍照的紀錄]({{ site.url }}/photography)，感謝簡易的 GitHub pages 跟易用的 Jekyll，一下就設定好了。
+弄了這個 site 最主要的目的是想要分享一些[自己拍照的紀錄](/photography)，感謝簡易的 GitHub pages 跟易用的 Jekyll，一下就設定好了。
 
 但後續發現在手機上瀏覽時包含圖片的頁面載入得非常慢。這是因為 static page 的關係，在頁面的初始載入時就被圖片載入給拖慢了速度。
 

@@ -6,7 +6,7 @@
     <link href="{{ site.baseurl }}/tech/" rel="alternate" type="text/html"/>
 
     <updated> {{ site.time | date_to_xmlschema }} </updated>
-    <id> {{ site.url }}{{ site.baseurl }}/tech/feed.xml </id>
+    <id> {{ site.baseurl }}/tech/feed.xml </id>
     <title> {{ site.title }} tech category</title>
     <author>
         <name> {{ site.author }} </name>
@@ -15,7 +15,7 @@
         {% for post in site.posts limit: 20 %}{% if post.category=="tech" %}
     <entry>
         <title>{{ post.title }}</title>
-        <id>{{ site.url }}{{ site.baseurl }}{{ post.url }} </id>
+        <id> {{ site.baseurl }}{{ post.url }} </id>
         <link href="{{ site.baseurl }}{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <summary>

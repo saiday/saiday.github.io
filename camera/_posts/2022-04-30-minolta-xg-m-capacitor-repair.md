@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[維修紀錄] Minolta XG-M 快門無法擊發電容更換"
+title:  "Minolta XG-M 快門無法擊發電容更換"
 date:    2022-04-30 15:54:53 +0800
 category: camera 
 ---

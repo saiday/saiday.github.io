@@ -8,7 +8,7 @@ category: darkroom
 {% include lazyload.html image_src="/darkroom/assets/bw-developing/result.jpg" %}
 
 #### 需求材料：
-1. 不鏽鋼沖片罐及片軸
+1. 沖片罐及片軸
 1. 暗袋
 1. 剪刀
 1. 量杯
@@ -19,8 +19,7 @@ category: darkroom
 1. 乾抹布（金屬片罐濕掉之後藥水蓋有夠難開）
 
 #### 藥水準備：
-因為使用的是不鏽鋼沖片罐，藥水的需求量是 475ml，所以都準備 500ml 的藥水溶劑。
-{% include lazyload.html image_src="/darkroom/assets/bw-developing/tank-reels.jpeg" %}
+因為使用的是不鏽鋼雙軸沖片罐，藥水的需求量是 475ml，所以都準備 500ml 的藥水溶劑。
 
 - Kodak D-76 顯影液 500ml
   - 使用粉劑型 25g 兌過濾水至 500ml（先用 375ml 溶解再加入 125ml）
@@ -32,7 +31,7 @@ category: darkroom
   - 以 2.5ml 兌過濾水至 500ml
   - 20 滴滴管量約為 1ml
 
-註：因為這次使用的是中性定影液，並非酸性定影液，所以不需要再多一道使用海波清除液 aka 助洗劑 (Hypo clearing agent, HCA) 的程序。
+註：因為這次使用的是中性定影液，並非酸性定影液所以不需要再多一道使用海波清除液 aka 助洗劑 (Hypo clearing agent, HCA) 的程序。
 
 
 ### 前置作業

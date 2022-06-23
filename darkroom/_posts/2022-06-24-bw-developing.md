@@ -46,6 +46,8 @@ category: darkroom
 
 ### 沖洗流程
 
+[Kodak Alaris 文件](https://imaging.kodakalaris.com/sites/default/files/files/products/AJ-3.pdf) 流程擷取：
+
 {% include lazyload.html image_src="/darkroom/assets/bw-developing/kodak-bw-film-process.png" %}
 
 #### 預濕

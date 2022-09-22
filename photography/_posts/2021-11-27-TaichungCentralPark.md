@@ -8,4 +8,6 @@ category: photography
 {% include lazyload.html image_src="/photography/assets/TaichungCentralPark/TaichungCentralPark_1.jpg" %}
 {% include lazyload.html image_src="/photography/assets/TaichungCentralPark/TaichungCentralPark_2.jpg" %}
 
+Minolta TC-1 | G-Rokkor 28mm F3.5 | Unknown
+
 2021 三月

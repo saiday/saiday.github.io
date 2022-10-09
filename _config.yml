@@ -75,5 +75,5 @@ plugins:
 
 repository: "saiday/saiday.github.io"
 staticman:
-  branch: "master"
-  api: "https://zh-tw-imnotyourson-staticman.herokuapp.com/v3/entry/github/saiday/saiday.github.io/master/comments"
+  branch: "main"
+  api: "https://zh-tw-imnotyourson-staticman.herokuapp.com/v3/entry/github/saiday/saiday.github.io/main/comments"

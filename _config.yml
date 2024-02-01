@@ -72,8 +72,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-repository: "saiday/saiday.github.io"
-staticman:
-  branch: "main"
-  api: "https://zh-tw-imnotyourson-staticman.herokuapp.com/v3/entry/github/saiday/saiday.github.io/main/comments"

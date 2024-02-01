@@ -43,18 +43,9 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- Begin Comments -->
-  {% if page.comments != false %}
-  <div id="comments">
-      {% include comments.html %}
-  </div>
-  {% endif %}
-  <!-- End Comments -->
-
   {% if page.comments == true %}
     {% include comments.html %}
   {% endif %}
-  {% include post__comments.html %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

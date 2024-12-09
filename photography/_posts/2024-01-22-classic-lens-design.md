@@ -25,7 +25,7 @@ category: photography
 ## 玩底片旁軸不用 Biogon 真是太可惜
 
 {% include lazyload.html image_src="/photography/assets/2024-rangefinder-lens-guide/biogon_lens_design.png" %}
-(Biogon 結構)
+(Biogon 結構)  
 Biogon 的名號非常響亮，對稱型 Biogon 的結構開山始祖是 1951 年 Contax C 接環的 21mm f4.5，緊接著是 1954 中畫幅的 Biogon 38mm f4.5，蔡司在當年做出了這顆鏡頭後再由哈蘇專門生產了對應的 Hasselblad SWC (Super Wide Camera) 機身，此鏡頭的重要程度可見一斑。
 
 Biogon 的特色：

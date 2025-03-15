@@ -6,7 +6,7 @@ category: camera
 tags: [Rolleiflex, Tessar, Planar]
 ---
 
-我保管過許多不同 Zeiss 版本的 Rolleiflex，在找資料時看到了這篇文章 [articolo Rolleiflex TLR vs Hasselblad: schemi ottici ed MTF originali delle Rollei biottiche antiche e moderne
+我保管過許多不同蔡司鏡頭版本的 Rolleiflex，在找資料時看到了這篇文章 [articolo Rolleiflex TLR vs Hasselblad: schemi ottici ed MTF originali delle Rollei biottiche antiche e moderne
 confrontati con quelli di analoghe focali del sistema Zeiss Hasselblad: chi vince?](http://www.marcocavina.com/articoli_fotografici/Rolleiflex_vs_Hasselblad_2/00_pag.htm)，哎呀，簡直是寶藏啊。  
 這篇文章中收錄了幾乎所有 Rolleiflex 蔡司鏡頭的結構、光學設計圖及 MTF 圖表，也有許多第一手資料，非常有收穫。基於個人的學習紀錄及心得我對原始文章感興趣的內容節錄及擴充。
 

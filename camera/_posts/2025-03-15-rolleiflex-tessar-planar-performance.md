@@ -12,7 +12,7 @@ confrontati con quelli di analoghe focali del sistema Zeiss Hasselblad: chi vinc
 
 
 若這篇文章內容讓你覺得有趣，強烈推薦看參考文章，雖然是義大利文寫的，但，感謝這個 AI 翻譯時代吧。  
-本篇全部的圖表都引用自參考文章，與作者取得授權中。
+本篇全部的圖表都引用自參考文章，已與作者取得使用授權。
 
 ### Rolleiflex 上的 Tessar 結構
 除了最早期的 Rolleiflex 是用 Triotar 結構外，有大量的 Rolleicord 及 Rolleiflex 型號都是搭配 Tessar 鏡頭 （Rolleiflex: Original, Automat, T; Rolleicord），是 Rolleiflex 上最經典的鏡頭結構。
